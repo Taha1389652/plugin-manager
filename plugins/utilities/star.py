@@ -1,7 +1,7 @@
 # ba_meta require api 9
 
 # @BsRush_Mod
-# کپی با ذکر منبع آزاد
+# Made by Taha
 
 from __future__ import annotations
 from typing import TYPE_CHECKING, cast
