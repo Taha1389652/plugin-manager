@@ -3,7 +3,7 @@
   "description": "Utilities",
   "plugins_base_url": "https://github.com/bombsquad-community/plugin-manager/{content_type}/{tag}/plugins/utilities",
   "plugins": {
-        "BsRush_Star": {
+        "Star": {
       "description": "A custom mod with animated shields and floating text effects for enhanced visual experience",
       "external_url": "",
       "authors": [
